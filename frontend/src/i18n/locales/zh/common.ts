@@ -199,6 +199,7 @@ export default {
     buySubscription: '充值/订阅',
     recharge: '充值',
     subscribe: '订阅',
+    cardShop: '兑换码购买',
     docs: '文档',
     myOrders: '我的订单',
     orderManagement: '订单管理',

@@ -1,4 +1,11 @@
 export default {
+  cardShop: {
+    title: '兑换码购买',
+    description: '购买兑换码',
+    eyebrow: '外部商城',
+    openExternal: '新窗口打开',
+    iframeTitle: '兑换码商城'
+  },
   dashboard: {
     title: '仪表盘',
     welcomeMessage: '欢迎回来！这是您账户的概览。',

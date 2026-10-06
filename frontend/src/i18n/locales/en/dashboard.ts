@@ -1,4 +1,11 @@
 export default {
+  cardShop: {
+    title: 'Card Shop',
+    description: 'Purchase redeem codes',
+    eyebrow: 'External store',
+    openExternal: 'Open in new window',
+    iframeTitle: 'Redeem code store'
+  },
   dashboard: {
     title: 'Dashboard',
     welcomeMessage: "Welcome back! Here's an overview of your account.",

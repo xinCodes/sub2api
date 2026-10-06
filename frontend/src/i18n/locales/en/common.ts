@@ -199,6 +199,7 @@ export default {
     buySubscription: 'Recharge / Subscription',
     recharge: 'Recharge',
     subscribe: 'Subscription',
+    cardShop: 'Card Shop',
     docs: 'Docs',
     myOrders: 'My Orders',
     orderManagement: 'Orders',
